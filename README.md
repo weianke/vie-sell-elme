@@ -1,25 +1,27 @@
-# vue-sell-app
+# 饿了么点餐系统
 
-> vue 高仿饿了么，
-> 项目实现： 实现购买动画，购物车效果，商品模块，评价模块等，饿了么流程。
-
-## 项目所用知识
-
-![vue-sell](http://webapp.didistatic.com/static/webapp/shield/vue-sell.png)
-
-
-## 指令
-
-####    下载依赖
-     npm install
-
-####    本地启动项目
-    npm run dev
-
-####    打包项目
-    npm run build
+> vue-router、webpack、eslint、better-scroll
 
 
 
+## 项目截图
+
+<div align=center><img src="https://static.oschina.net/uploads/space/2017/0207/110250_3uWi_2493500.jpeg" width="40%"></div>
+
+<div align=center><img src="https://static.oschina.net/uploads/space/2017/0207/110759_xva1_2493500.jpeg" width="40%"></div>
+
+
+## 安装步骤
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
 
 
